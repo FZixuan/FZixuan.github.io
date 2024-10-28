@@ -14,15 +14,15 @@ profiles:
     content: about.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Weil Hall 401, </p>
+      <p>1949 Stadium Rd</p>
+      <p>Gainesville, FL 32611</p>
   - align: left
     image: prof_pic.jpg
     content: about.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Weil Hall 401, </p>
+      <p>1949 Stadium Rd</p>
+      <p>Gainesville, FL 32611</p>
 ---

@@ -48,7 +48,7 @@ rss_icon: false # true
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false #true
 socials_in_search: true
 bib_search: true
 
@@ -195,6 +195,11 @@ collections:
     output: true
     permalink: /:collection/:title/
   projects:
+    output: true
+    permalink: /:collection/:title/
+  teaching:
+    defaults:
+      layout: post
     output: true
     permalink: /:collection/:title/
 

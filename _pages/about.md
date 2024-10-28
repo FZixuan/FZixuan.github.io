@@ -15,17 +15,17 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: false # true # includes a list of papers marked as "selected={true}"
-# posts: false
+posts: false
 social: true # true # includes social icons at the bottom of the page
 ---
 
-!! Website building in progress, please don't trust anything here for now. Thank you for your understanding.!!
+:warning: Website building in progress, please don't trust anything here for now. Thank you for your understanding.
 
-Welcome to my homepage! I'm a second year PhD student in the [Department of Industrial and Systems Engineering](https://www.ise.ufl.edu/) at the University of Florida. I'm working with [Dr. Aleksandr Kazachkov](https://akazachk.github.io/) in the Center of Applied Optimization.
+Welcome to my homepage! In Fall 2023, I started my PhD program in the [Department of Industrial and Systems Engineering](https://www.ise.ufl.edu/) at the University of Florida. 
+I'm working with [Dr. Aleksandr Kazachkov](https://akazachk.github.io/) in the Center of Applied Optimization. 
+My research interests include helping MIP (Mixed Integer Programming) solver making smarter decisions and computational economics (fair devision, etc.)
 
-My current research focuses on helping MIP (Mixed Integer Programming) solver making smart decisions
+I spend my spare time on dancing (chinese dance, ballet basics, sportive latin american ballroom dance), listening to music, making handicrafts, and playing with my cat Yuanxiao :smiley_cat: .
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm currently the secretary of the [INFORMS Student Chapter at UF](https://www.ise.ufl.edu/informs/). Feel free to reach out to me if you are interested in my research, my hobbies, our student chapter, or just want to say hi! :blush:
 

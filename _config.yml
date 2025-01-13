@@ -195,12 +195,12 @@ collections:
     output: true
     permalink: /:collection/:title/
   projects:
-    output: true
+    output: false #true
     permalink: /:collection/:title/
   teaching:
     defaults:
       layout: post
-    output: true
+    output: false #true
     permalink: /:collection/:title/
 
 announcements:

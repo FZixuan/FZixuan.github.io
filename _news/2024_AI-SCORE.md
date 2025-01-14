@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm at the [AI-SCORE (The Artificial Intelligence School for Computer Science and Operations Research Education) summer school](https://ai-score.github.io/). Come and say hi!
+I'm at the [AI-SCORE (The Artificial Intelligence School for Computer Science and Operations Research Education) summer school](https://ai-score.github.io/).
